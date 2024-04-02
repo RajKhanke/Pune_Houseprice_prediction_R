@@ -7,7 +7,10 @@ The System considers various parameters like House price location (choose locati
 
 The code is written in R language which supports data analysis and exploratory data analysis at a higher rate. The System also uses various visualizatiosn Techniques like Plotly , ggplot and matplotlib for visualization
 
-#Algorithms Applied
+
+
+# Algorithms Applied
+
 Multiple linear regression (81 %)
 Suppport vector Machine (SVM)
 Random Forest (RF)
