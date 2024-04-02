@@ -12,9 +12,14 @@ The code is written in R language which supports data analysis and exploratory d
 # Algorithms Applied
 
 Multiple linear regression (81 %)
+
 Suppport vector Machine (SVM)
+
 Random Forest (RF)
+
 Decision Tree (DT)
+
+
 
 The frontend interface is created using the shiny package in R language
 
