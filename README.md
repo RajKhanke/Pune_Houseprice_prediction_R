@@ -11,13 +11,13 @@ The code is written in R language which supports data analysis and exploratory d
 
 # Algorithms Applied
 
-Multiple linear regression (81 %)
+Multiple linear regression (81 % accuracy)
 
-Suppport vector Machine (SVM)
+Suppport vector Machine (SVM) (78 % accuracy)
 
-Random Forest (RF)
+Random Forest (RF) (75 % accuracy)
 
-Decision Tree (DT)
+Decision Tree (DT)  (72 % accuracy)
 
 
 
