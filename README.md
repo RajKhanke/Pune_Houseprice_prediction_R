@@ -21,6 +21,6 @@ Decision Tree (DT)  (72 % accuracy)
 
 
 
-The frontend interface is created using the shiny package in R language
+The frontend interface is created using the shiny package in R language.
 
 
