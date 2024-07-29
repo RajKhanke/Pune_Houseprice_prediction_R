@@ -19,6 +19,8 @@ Random Forest (RF) (75 % accuracy)
 
 Decision Tree (DT)  (72 % accuracy)
 
+after that k-flod cross validation is performed on linear regression and Random Forest Model and linear regression proved to be most accurate with an average accuracy of 78 %.
+
 
 
 The frontend interface is created using the shiny package in R language.
