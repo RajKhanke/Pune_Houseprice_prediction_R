@@ -5,7 +5,7 @@ The Multiple Linear Regression obtained the highest accuracy among the multiple 
 
 The System considers various parameters like House price location (choose location among 30+ locations in pune) , Total Sq.feet size of the House , Total BHK size (1,2 or more) , number of bathrooms and number of Bedrooms
 
-The code is written in R language which supports data analysis and exploratory data analysis at a higher rate. The System also uses various visualizatiosn Techniques like Plotly , ggplot and matplotlib for visualization
+The code is written in R language which supports data analysis and exploratory data analysis at a higher rate. The System also uses various visualizatiosn Techniques like Plotly , ggplot and matplotlib for visualization of variety of plots like scatter plot, barplot etc
 
 
 
